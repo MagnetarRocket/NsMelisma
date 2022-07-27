@@ -1,0 +1,14 @@
+{
+    GSThemeAuthors = (
+	"MagnetarRocket"
+    );
+    GSThemeDetails = "A pixmap only emulation of the motif toolkit, ment to not look out of place with the likes of a typical motif-using system";
+    GSThemeDomain = {
+    };
+    GSThemeIcon = "Thematic.png";
+    GSThemeLicense = "MIT";
+    GSThemePreview = "melisma1_preview_128.tif";
+    GSThemeTiles = {
+    };
+    GSThemeVersion = "1.0";
+}
